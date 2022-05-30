@@ -36,5 +36,5 @@ Unity 2020.3.4f1
 * プログラマ　1名
 
 ## ゲーム画面
-![GameImage](https://user-images.githubusercontent.com/50101227/170900135-b4a3cdf1-dd73-4d35-a9e9-2c2258cfccef.png)
 ![Title](https://user-images.githubusercontent.com/50101227/170900179-f9d614cb-1f5f-489f-ad85-b3447599e91d.png)
+![GameImage](https://user-images.githubusercontent.com/50101227/170900135-b4a3cdf1-dd73-4d35-a9e9-2c2258cfccef.png)
